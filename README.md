@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # 🚩 Challenge #0: 🎟 Simple NFT Example
 
 ![readme-0](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/375b7797-6839-43cd-abe5-fca94d88e300)
 
-📚 This tutorial is meant for developers that already understand the [ 🖍️ basics ](https://www.youtube.com/watch?v=MlJPjJQZtC8). 
+📚 This tutorial is meant for developers that already understand the [ 🖍️ basics ](https://www.youtube.com/watch?v=MlJPjJQZtC8).
 
 🧑‍🏫 If you would like a more gentle introduction for developers, watch our 15 video [🎥 Web2 to Web3](https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69) series.
 
@@ -223,8 +221,8 @@ yarn verify --network sepolia
 
 > 🏃 Head to your next challenge [here](https://github.com/scaffold-eth/se-2-challenges).
 
-> 💬 Problems, questions, comments on the stack? Post them to the [🏗 scaffold-eth developers chat](https://t.me/joinchat/F7nCRK3kI93PoCOk)
-=======
+> # 💬 Problems, questions, comments on the stack? Post them to the [🏗 scaffold-eth developers chat](https://t.me/joinchat/F7nCRK3kI93PoCOk)
+
 # 🏗 Scaffold-ETH 2 Challenges
 
 **Learn how to use 🏗 Scaffold-ETH 2 to create decentralized applications on Ethereum. 🚀**
@@ -341,13 +339,14 @@ Adapt the base template README using the SE-1 version as a reference.
 ### 7. Create a PR against the challenge branch
 
 We can iterate and test there.
->>>>>>> d67fda559d899a73f4b08a7b43cde13a679bde00
-=======
+
+> > > > > > > # d67fda559d899a73f4b08a7b43cde13a679bde00
+
 # 🚩 Challenge #0: 🎟 Simple NFT Example
 
 ![readme-0](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/375b7797-6839-43cd-abe5-fca94d88e300)
 
-📚 This tutorial is meant for developers that already understand the [ 🖍️ basics ](https://www.youtube.com/watch?v=MlJPjJQZtC8). 
+📚 This tutorial is meant for developers that already understand the [ 🖍️ basics ](https://www.youtube.com/watch?v=MlJPjJQZtC8).
 
 🧑‍🏫 If you would like a more gentle introduction for developers, watch our 15 video [🎥 Web2 to Web3](https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69) series.
 
@@ -567,4 +566,5 @@ yarn verify --network sepolia
 > 🏃 Head to your next challenge [here](https://github.com/scaffold-eth/se-2-challenges).
 
 > 💬 Problems, questions, comments on the stack? Post them to the [🏗 scaffold-eth developers chat](https://t.me/joinchat/F7nCRK3kI93PoCOk)
->>>>>>> dddc8a60d1b3b3abe1c48534239316c0669065c2
+>
+> > > > > > > dddc8a60d1b3b3abe1c48534239316c0669065c2
